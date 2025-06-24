@@ -57,8 +57,8 @@ body{
 }
 
 #resetBtn{
-    background-color: hsl(253, 100%, 40%);
+    background-color: hsl(219, 100%, 40%);
 }
 #resetBtn:hover{
-    background-color: hsl(253, 100%, 30%);
+    background-color: hsl(219, 100%, 30%);
 }
